@@ -1,6 +1,5 @@
 body {
-  font-family: 'Poppins', sans-serif;
-	background: https://cdn.discordapp.com/attachments/722727966437539840/796404217303924736/80e42fe5c2b50bf3c1b771eed3c6645e.gif
+	background: url("https://cdn.discordapp.com/attachments/722727966437539840/796404217303924736/80e42fe5c2b50bf3c1b771eed3c6645e.gif");
 }
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,600');
@@ -13,7 +12,7 @@ h6:link, h6:visited {
 
 .ustmenu {
   font-family: 'Poppins', sans-serif;
-    background: linear-gradient(to right,#1bc8cc 0,#643dff 100%);
+    background: linear-gradient(to right,#ff0000 0,#000000 50%);
     padding: 35px;
     top: 0px;
     margin: 0px;
@@ -24,7 +23,7 @@ h6:link, h6:visited {
 
 .ustmenu2{
   font-family: 'Poppins', sans-serif;
-    float:right;
+    float:left;
     margin-top:-11px;
 }
 
@@ -38,7 +37,7 @@ h6:link, h6:visited {
   font-family: 'Poppins', sans-serif;
     color:#ff0000;
     font-family: Roboto;
-    padding:26px;
+    padding:29px;
     transition: 0.4s;
 }
 
@@ -173,7 +172,7 @@ margin-bottom: 20px !important;
 }
 
 .footer {
-    background: linear-gradient(to right,#1bc8cc 0,#643dff 100%);
+    background: linear-gradient(to left,yellow 0,#643dff 100%);
     width: 100%;
     float: right;
     font-family: 'Open-Sans', sans-serif;
@@ -305,8 +304,8 @@ textarea {
 
 table {
   border-collapse: collapse;
-  width: 100%;
-  color:#333;
+  width: 90%;
+  color:yellow;
 }
 
 th, td {

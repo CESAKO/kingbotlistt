@@ -172,11 +172,11 @@ margin-bottom: 20px !important;
 }
 
 .footer {
-    background: linear-gradient(to left,yellow 0,#643dff 100%);
-    width: 100%;
+    background: linear-gradient(to left,#ff0000 0,#000000 100%);
+    width: 90%;
     float: right;
     font-family: 'Open-Sans', sans-serif;
-    color: #fff;
+    color: #ffffff;
     border-top: 3px dashed #fff;
 }
 

@@ -13,11 +13,11 @@ let profil = JSON.parse(fs.readFileSync('./profil.json', 'utf8'))
 client.profil = profil
 
 client.ayarlar = {
-  "prefix": "!", //prefix
-  "oauthSecret": "YchUSZ8RCuPprym2kjezFDFWn6eZ8Vqr", //bot secreti
-	"callbackURL": "https://discord-botlist-area.glitch.me//callback", //benim sitenin urlsini kendin ile değiş "/callback" kalacak!
-	"kayıt": "771265631143723009", //onaylandı, reddedildi, başvuru yapıldı falan kayıtların gideceği kanalın ID'ini yazacaksın
-  "renk": "BLUE" //embedların rengini burdan alıo can sıkıntısdna yapılmış bişe falan fln
+  "prefix": "k!", //prefix
+  "oauthSecret": "FcblVGR4v6-pwXDe2wLzwDWMl6kBC7FS", //bot secreti
+	"callbackURL": "http://www.kasap-botlist.cf//callback", //benim sitenin urlsini kendin ile değiş "/callback" kalacak!
+	"kayıt": "77126563114372300", //onaylandı, reddedildi, başvuru yapıldı falan kayıtların gideceği kanalın ID'ini yazacaksın
+  "renk": "#FF0000" //embedların rengini burdan alıo can sıkıntısdna yapılmış bişe falan fln
 };
 
 

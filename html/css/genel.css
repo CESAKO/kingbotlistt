@@ -1,6 +1,6 @@
 body {
   font-family: 'Poppins', sans-serif;
-	background: #fff;
+	background: https://cdn.discordapp.com/attachments/722727966437539840/796404217303924736/80e42fe5c2b50bf3c1b771eed3c6645e.gif
 }
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,600');
@@ -175,14 +175,14 @@ margin-bottom: 20px !important;
 .footer {
     background: linear-gradient(to right,#1bc8cc 0,#643dff 100%);
     width: 100%;
-    float: left;
+    float: right;
     font-family: 'Open-Sans', sans-serif;
     color: #fff;
     border-top: 3px dashed #fff;
 }
 
 .footer #kutu a {
-	color: white;
+	color: red;
 }
 
 .footer #kutu b {

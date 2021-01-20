@@ -182,8 +182,8 @@ client.on("message", async message => {
   }
 });
 
-client.login("Nzg5NDU3Mzk5NDMyODcxOTM2.X9yVfw.U6c1oC2tfLVyNqE6Slj3icoA5mA"); //tokeni yaz işte
+client.login("ODAxNDI4NDc5Njk0MjA5MDU0.YAgibw.3Wj7-lKn24bNmjPAGqV1PMoYyYo"); //tokeni yaz işte
 
 process.env = {};
 process.env.TOKEN =
-  "Nzg5NDU3Mzk5NDMyODcxOTM2.X9yVfw.U6c1oC2tfLVyNqE6Slj3icoA5mA";
+  "ODAxNDI4NDc5Njk0MjA5MDU0.YAgibw.3Wj7-lKn24bNmjPAGqV1PMoYyYo";

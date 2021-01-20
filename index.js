@@ -16,7 +16,7 @@ client.ayarlar = {
   prefix: "k!", //prefix
   oauthSecret: "FcblVGR4v6-pwXDe2wLzwDWMl6kBC7FS", //bot secreti
   callbackURL: "http://www.kasap-botlist.cf//callback", //benim sitenin urlsini kendin ile değiş "/callback" kalacak!
-  kayıt: "795654476048236545", //onaylandı, reddedildi, başvuru yapıldı falan kayıtların gideceği kanalın ID'ini yazacaksın
+  kayıt: "801424505535856650", //onaylandı, reddedildi, başvuru yapıldı falan kayıtların gideceği kanalın ID'ini yazacaksın
   renk: "#FF0000" //embedların rengini burdan alıo can sıkıntısdna yapılmış bişe falan fln
 };
 
